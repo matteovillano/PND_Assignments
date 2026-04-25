@@ -2,9 +2,9 @@
 
 Lab reports for the **Practical Network Defense** course, A.Y. 2025/2026.
 Students: 
-- Alessio Lamberti 
-- Valerio Roviello 
-- Edoardo 
+- Alessio Lamberti 1934879
+- Valerio Roviello 1708683 
+- Edoardo Tomassini 1749175
 - Matteo Villano 1840807
 
 ## Updating the reports
