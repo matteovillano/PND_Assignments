@@ -21,7 +21,7 @@ pdflatex main.tex
 
 Always pull the latest changes before editing anything:
 
-##GOOGLE DRIVE Folder
+## GOOGLE DRIVE Folder
 https://drive.google.com/drive/folders/1AG92FfkOoGc17wj7NrDELWstGwkEJ31Q?usp=sharing
 
 ```bash
